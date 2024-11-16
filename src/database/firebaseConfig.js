@@ -1,8 +1,8 @@
 export const firebaseConfig = {
-    apiKey: "AIzaSyDhs6rhagqC0r96zRR1vqx67qH0BCjjSrc",
-    authDomain: "globalcompanyxtbhu.firebaseapp.com",
-    projectId: "globalcompanyxtbhu",
-    storageBucket: "globalcompanyxtbhu.appspot.com",
-    messagingSenderId: "650089303564",
-    appId: "1:650089303564:web:07dc3edec820dd52d92829"
+     apiKey: "AIzaSyBWOzL_1VO1CT_8ddWJikJ1O3dOLgY5lDM",
+  authDomain: "xtbgceu.firebaseapp.com",
+  projectId: "xtbgceu",
+  storageBucket: "xtbgceu.firebasestorage.app",
+  messagingSenderId: "888939556477",
+  appId: "1:888939556477:web:69c5f1a68a69d27a66cb14"
   };

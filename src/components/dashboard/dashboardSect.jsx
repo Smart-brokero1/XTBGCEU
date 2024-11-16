@@ -96,7 +96,7 @@ const DashboardSect = ({ setWidgetState, currentUser, setInvestData }) => {
               </li>
               <li>
                 <i className="icofont-tick-mark"></i>{" "}
-                <span>Access to 15 of our digital financial resources</span>
+                <span>Access to 15 of our digital cial resources</span>
               </li>
             </ul>
             <button

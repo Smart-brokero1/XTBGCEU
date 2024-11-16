@@ -81,7 +81,7 @@ return (
       <button
         className="financeBtn"
         onClick={() => {
-          window.open("https://wa.me/36704299006", "_blank");
+          window.open("https://t.me/xtb_FINANCE", "_blank");
         }}
       >
         Finance Department
